@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "Collection search/empty/category/sort and save",
+    "Saved persistence, product image selection/zoom and bag add",
+    "Required fields, reviewed quantity2 draft, correct destination, copy and edit",
+    "Bag quantity3/remove and clear saved",
+    "Style guide and correct contact",
+    "Gallery category/open/next/Escape",
+    "Global search suggestions"
+  ],
+  "product": "monochrome-scarf-edit",
+  "result": "PASS"
+}

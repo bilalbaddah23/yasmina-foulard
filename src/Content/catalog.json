@@ -1,0 +1,173 @@
+{
+  "brand": "Yasmina Foulard",
+  "contactMode": "whatsapp",
+  "phone": "96170702091",
+  "displayPhone": "+961 70 702 091",
+  "instagram": "https://www.instagram.com/yasmina.foulard/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/photo-cece981454b6c268.jpg",
+  "story": "/images/photo-98dc4f08c4bbd241.jpg",
+  "galleryImages": [
+    "/images/photo-06d7daba8e9cfc37.jpg",
+    "/images/photo-2c1a9c9d690b610b.jpg",
+    "/images/photo-6d552cacfd5bdb14.jpg",
+    "/images/photo-0d00d1c48a5bf183.jpg",
+    "/images/photo-cece981454b6c268.jpg",
+    "/images/photo-08006020e175a3a9.jpg",
+    "/images/photo-edf027b4da5c13ac.jpg",
+    "/images/photo-7907265a85a6b3ac.jpg",
+    "/images/photo-820f6d5fe4c0e8a7.jpg",
+    "/images/photo-4db6a6f180860949.jpg",
+    "/images/photo-da9c1ea93de13015.jpg",
+    "/images/photo-98dc4f08c4bbd241.jpg"
+  ],
+  "products": [
+    {
+      "id": "monochrome-scarf-edit",
+      "name": "Monochrome Scarf Edit",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "An abstract scarf selection in black, white and soft grey tones, shown in several boutique colour stories. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-06d7daba8e9cfc37.jpg",
+        "/images/photo-2c1a9c9d690b610b.jpg",
+        "/images/photo-6d552cacfd5bdb14.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-SVm0CI1K/"
+    },
+    {
+      "id": "blue-ochre-scarf",
+      "name": "Blue and Ochre Scarf",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "A flowing abstract print mixing blue, ochre and soft taupe tones. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-0d00d1c48a5bf183.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-SDhwiEUc/"
+    },
+    {
+      "id": "pastel-colour-scarf",
+      "name": "Pastel Colour Scarf",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light printed scarf with accents of pink, yellow and blue, photographed draped on a display form. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-cece981454b6c268.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-RzysiDei/"
+    },
+    {
+      "id": "midnight-scarf-edit",
+      "name": "Midnight Scarf Edit",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark scarf edit with blue, grey and pale abstract accents across two photographed styles. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-08006020e175a3a9.jpg",
+        "/images/photo-edf027b4da5c13ac.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-RvfpiHSx/"
+    },
+    {
+      "id": "lilac-print-scarf",
+      "name": "Lilac Print Scarf",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "A soft lilac and grey scarf with an abstract multicolour print. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-7907265a85a6b3ac.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-RmvQCBlQ/"
+    },
+    {
+      "id": "earth-tone-scarf-edit",
+      "name": "Earth Tone Scarf Edit",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "An expressive scarf edit with olive, ochre, muted pink and earthy accents in the photographed styles. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-820f6d5fe4c0e8a7.jpg",
+        "/images/photo-4db6a6f180860949.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-RTqiiGTH/"
+    },
+    {
+      "id": "sage-print-scarf",
+      "name": "Sage Print Scarf",
+      "collection": "Printed scarves",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pale scarf with sage, grey and yellow abstract accents. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-da9c1ea93de13015.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/p/Df-QYOWiD3Z/"
+    },
+    {
+      "id": "dark-button-front-modest-look",
+      "name": "Dark Button Front Look",
+      "collection": "Modest wear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark long button-front modest outfit styled with a pale headscarf in a mirror view. Ask the boutique to confirm the exact pictured piece, size, price and availability. Styling accessories and other garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-98dc4f08c4bbd241.jpg"
+      ],
+      "source": "https://www.instagram.com/yasmina.foulard/reel/Df2iFNQopt6/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Maarake, South Lebanon",
+      "mapUrl": ""
+    }
+  ]
+}

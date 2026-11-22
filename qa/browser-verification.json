@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-22",
+  "result": "PASS",
+  "desktop": {
+    "heroLoaded": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  "checks": [
+    "Collection search/empty/category/sort and save",
+    "Saved persistence, product image selection/zoom and bag add",
+    "Required fields, reviewed quantity2 draft, correct destination, copy and edit",
+    "Bag quantity3/remove and clear saved",
+    "Style guide and correct contact",
+    "Gallery category/open/next/Escape",
+    "Global search suggestions",
+    "Alphabetical sorting verified in rendered cards",
+    "Mobile menu/Escape and six390px routes;360px home"
+  ],
+  "responsive": [
+    {
+      "path": "/",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/shop",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/product/monochrome-scarf-edit",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/lookbook",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/contact",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/checkout",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "additional360": {
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "consoleErrors": [],
+  "screenshots": [
+    "desktop-home.jpg",
+    "mobile-home.jpg"
+  ],
+  "scope": "Local compiled release; no messages sent, payments or live VPS deployment"
+}
