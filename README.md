@@ -1,5 +1,7 @@
 # Yasmina Foulard
 
+> **Ready to deploy — 26 November 2026.** Fixed, tested and waiting to be installed on the VPS.
+
 Animated ASP.NET Core 10 demonstration website. Windows x64 IIS release included. 8 source-grounded collection edits, 12 unique public-source still images, brand-specific visual design and responsive layouts.
 
 Collection search and category filters, product photos/zoom, saved favourites, a filterable photo diary, a bag and server-validated customer enquiry drafts. Contact mode: Verified WhatsApp; visitors review the draft and send it themselves.
